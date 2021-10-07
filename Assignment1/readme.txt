@@ -1,0 +1,1 @@
+To run the code.ipynb file, the training and test data sets should be present in a directory called "data" in the same directory as the ipynb file. The name of training dataset file should be "train.pkl" and that of test dataset should be "test.pkl"
